@@ -77,7 +77,6 @@ export default function Home() {
             <div className="wrap">
               <div aria-label="Portfolio overview" className="strip">
                 <span>2 years of experience</span>
-                <span>4 residential projects</span>
                 <span>Bengaluru</span>
               </div>
             </div>
