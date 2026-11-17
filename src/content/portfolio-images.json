@@ -1,0 +1,648 @@
+{
+  "portrait": {
+    "src": "/images/portfolio/portrait/ambika-g.webp",
+    "alt": "Portrait of Ambika G",
+    "width": 435,
+    "height": 573
+  },
+  "projectCovers": {
+    "Sumadhura by Folium": {
+      "src": "/images/portfolio/sumadhura/kitchen-and-dining-1.webp",
+      "alt": "Sumadhura by Folium",
+      "width": 1500,
+      "height": 1125
+    },
+    "Oceanus Freesia Enclave": {
+      "src": "/images/portfolio/oceanus/living-room-2.webp",
+      "alt": "Oceanus Freesia Enclave",
+      "width": 1181,
+      "height": 825
+    },
+    "DS & Jaks Needs": {
+      "src": "/images/portfolio/dsjaks/foyer-and-living-1.webp",
+      "alt": "DS & Jaks Needs",
+      "width": 745,
+      "height": 596
+    },
+    "DNR Arista": {
+      "src": "/images/portfolio/dnr/living-and-pooja-1.webp",
+      "alt": "DNR Arista",
+      "width": 1500,
+      "height": 1079
+    },
+    "Other Renders": {
+      "src": "/images/portfolio/covers/other-renders.webp",
+      "alt": "Other Renders",
+      "width": 1500,
+      "height": 1500
+    },
+    "Nail Salon": {
+      "src": "/images/portfolio/covers/nail-salon.webp",
+      "alt": "Nail Salon",
+      "width": 923,
+      "height": 717
+    }
+  },
+  "projects": {
+    "sumadhura": [
+      {
+        "id": "r-sumadhura-0",
+        "name": "Living, Foyer & Dining",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/sumadhura/living-foyer-and-dining-1.webp",
+            "alt": "Living, Foyer & Dining — view 1",
+            "width": 1500,
+            "height": 844
+          },
+          {
+            "src": "/images/portfolio/sumadhura/living-foyer-and-dining-2.webp",
+            "alt": "Living, Foyer & Dining — view 2",
+            "width": 593,
+            "height": 790
+          },
+          {
+            "src": "/images/portfolio/sumadhura/living-foyer-and-dining-3.webp",
+            "alt": "Living, Foyer & Dining — view 3",
+            "width": 900,
+            "height": 1200
+          }
+        ]
+      },
+      {
+        "id": "r-sumadhura-1",
+        "name": "Sofa wall",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/sumadhura/sofa-wall-1.webp",
+            "alt": "Sofa wall — view 1",
+            "width": 724,
+            "height": 514
+          },
+          {
+            "src": "/images/portfolio/sumadhura/sofa-wall-2.webp",
+            "alt": "Sofa wall — view 2",
+            "width": 632,
+            "height": 708
+          },
+          {
+            "src": "/images/portfolio/sumadhura/sofa-wall-3.webp",
+            "alt": "Sofa wall — view 3",
+            "width": 634,
+            "height": 750
+          }
+        ]
+      },
+      {
+        "id": "r-sumadhura-2",
+        "name": "Kitchen & Dining",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/sumadhura/kitchen-and-dining-1.webp",
+            "alt": "Kitchen & Dining — view 1",
+            "width": 1500,
+            "height": 1125
+          }
+        ]
+      },
+      {
+        "id": "r-sumadhura-3",
+        "name": "Kitchen",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/sumadhura/kitchen-1.webp",
+            "alt": "Kitchen — view 1",
+            "width": 871,
+            "height": 653
+          }
+        ]
+      },
+      {
+        "id": "r-sumadhura-4",
+        "name": "Bedroom 1",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/sumadhura/bedroom-1-1.webp",
+            "alt": "Bedroom 1 — view 1",
+            "width": 872,
+            "height": 656
+          },
+          {
+            "src": "/images/portfolio/sumadhura/bedroom-1-2.webp",
+            "alt": "Bedroom 1 — view 2",
+            "width": 889,
+            "height": 564
+          },
+          {
+            "src": "/images/portfolio/sumadhura/bedroom-1-3.webp",
+            "alt": "Bedroom 1 — view 3",
+            "width": 1024,
+            "height": 768
+          }
+        ]
+      },
+      {
+        "id": "r-sumadhura-5",
+        "name": "Bedroom 2",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/sumadhura/bedroom-2-1.webp",
+            "alt": "Bedroom 2 — view 1",
+            "width": 816,
+            "height": 661
+          }
+        ]
+      },
+      {
+        "id": "r-sumadhura-6",
+        "name": "Bedroom 3",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/sumadhura/bedroom-3-1.webp",
+            "alt": "Bedroom 3 — view 1",
+            "width": 1062,
+            "height": 598
+          },
+          {
+            "src": "/images/portfolio/sumadhura/bedroom-3-2.webp",
+            "alt": "Bedroom 3 — view 2",
+            "width": 1200,
+            "height": 900
+          }
+        ]
+      }
+    ],
+    "oceanus": [
+      {
+        "id": "r-oceanus-0",
+        "name": "Living room",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/oceanus/living-room-1.webp",
+            "alt": "Living room — view 1",
+            "width": 1200,
+            "height": 829
+          },
+          {
+            "src": "/images/portfolio/oceanus/living-room-2.webp",
+            "alt": "Living room — view 2",
+            "width": 1181,
+            "height": 825
+          }
+        ]
+      },
+      {
+        "id": "r-oceanus-1",
+        "name": "Kitchen & Dining",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/oceanus/kitchen-and-dining-1.webp",
+            "alt": "Kitchen & Dining — view 1",
+            "width": 801,
+            "height": 546
+          },
+          {
+            "src": "/images/portfolio/oceanus/kitchen-and-dining-2.webp",
+            "alt": "Kitchen & Dining — view 2",
+            "width": 447,
+            "height": 487
+          },
+          {
+            "src": "/images/portfolio/oceanus/kitchen-and-dining-3.webp",
+            "alt": "Kitchen & Dining — view 3",
+            "width": 851,
+            "height": 601
+          }
+        ]
+      },
+      {
+        "id": "r-oceanus-2",
+        "name": "Storage unit drawings",
+        "layout": "f d",
+        "images": [
+          {
+            "src": "/images/portfolio/oceanus/storage-unit-drawings-1.webp",
+            "alt": "Storage unit drawings — view 1",
+            "width": 1099,
+            "height": 691
+          },
+          {
+            "src": "/images/portfolio/oceanus/storage-unit-drawings-2.webp",
+            "alt": "Storage unit drawings — view 2",
+            "width": 995,
+            "height": 623
+          }
+        ]
+      },
+      {
+        "id": "r-oceanus-3",
+        "name": "Bedroom 1",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/oceanus/bedroom-1-1.webp",
+            "alt": "Bedroom 1 — view 1",
+            "width": 883,
+            "height": 616
+          }
+        ]
+      },
+      {
+        "id": "r-oceanus-4",
+        "name": "Bedroom 2",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/oceanus/bedroom-2-1.webp",
+            "alt": "Bedroom 2 — view 1",
+            "width": 1500,
+            "height": 791
+          }
+        ]
+      }
+    ],
+    "dsjaks": [
+      {
+        "id": "r-dsjaks-0",
+        "name": "Foyer & Living",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dsjaks/foyer-and-living-1.webp",
+            "alt": "Foyer & Living — view 1",
+            "width": 745,
+            "height": 596
+          },
+          {
+            "src": "/images/portfolio/dsjaks/foyer-and-living-2.webp",
+            "alt": "Foyer & Living — view 2",
+            "width": 753,
+            "height": 596
+          }
+        ]
+      },
+      {
+        "id": "r-dsjaks-1",
+        "name": "Sofa wall",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dsjaks/sofa-wall-1.webp",
+            "alt": "Sofa wall — view 1",
+            "width": 837,
+            "height": 622
+          },
+          {
+            "src": "/images/portfolio/dsjaks/sofa-wall-2.webp",
+            "alt": "Sofa wall — view 2",
+            "width": 988,
+            "height": 604
+          }
+        ]
+      },
+      {
+        "id": "r-dsjaks-2",
+        "name": "Kitchen",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dsjaks/kitchen-1.webp",
+            "alt": "Kitchen — view 1",
+            "width": 985,
+            "height": 785
+          },
+          {
+            "src": "/images/portfolio/dsjaks/kitchen-2.webp",
+            "alt": "Kitchen — view 2",
+            "width": 1406,
+            "height": 1122
+          },
+          {
+            "src": "/images/portfolio/dsjaks/kitchen-3.webp",
+            "alt": "Kitchen — view 3",
+            "width": 985,
+            "height": 785
+          }
+        ]
+      },
+      {
+        "id": "r-dsjaks-3",
+        "name": "Pooja",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dsjaks/pooja-1.webp",
+            "alt": "Pooja — view 1",
+            "width": 1406,
+            "height": 1122
+          },
+          {
+            "src": "/images/portfolio/dsjaks/pooja-2.webp",
+            "alt": "Pooja — view 2",
+            "width": 644,
+            "height": 508
+          },
+          {
+            "src": "/images/portfolio/dsjaks/pooja-3.webp",
+            "alt": "Pooja — view 3",
+            "width": 824,
+            "height": 652
+          }
+        ]
+      },
+      {
+        "id": "r-dsjaks-4",
+        "name": "Pooja details",
+        "layout": "f d",
+        "images": [
+          {
+            "src": "/images/portfolio/dsjaks/pooja-details-1.webp",
+            "alt": "Pooja details — view 1",
+            "width": 973,
+            "height": 621
+          }
+        ]
+      },
+      {
+        "id": "r-dsjaks-5",
+        "name": "Living false ceiling",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dsjaks/living-false-ceiling-1.webp",
+            "alt": "Living false ceiling — view 1",
+            "width": 941,
+            "height": 654
+          },
+          {
+            "src": "/images/portfolio/dsjaks/living-false-ceiling-2.webp",
+            "alt": "Living false ceiling — view 2",
+            "width": 990,
+            "height": 630
+          },
+          {
+            "src": "/images/portfolio/dsjaks/living-false-ceiling-3.webp",
+            "alt": "Living false ceiling — view 3",
+            "width": 980,
+            "height": 615
+          },
+          {
+            "src": "/images/portfolio/dsjaks/living-false-ceiling-4.webp",
+            "alt": "Living false ceiling — view 4",
+            "width": 983,
+            "height": 574
+          }
+        ]
+      }
+    ],
+    "dnr": [
+      {
+        "id": "r-dnr-0",
+        "name": "Living & Pooja",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dnr/living-and-pooja-1.webp",
+            "alt": "Living & Pooja — view 1",
+            "width": 1500,
+            "height": 1079
+          },
+          {
+            "src": "/images/portfolio/dnr/living-and-pooja-2.webp",
+            "alt": "Living & Pooja — view 2",
+            "width": 943,
+            "height": 709
+          }
+        ]
+      },
+      {
+        "id": "r-dnr-1",
+        "name": "Kitchen",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dnr/kitchen-1.webp",
+            "alt": "Kitchen — view 1",
+            "width": 1200,
+            "height": 896
+          },
+          {
+            "src": "/images/portfolio/dnr/kitchen-2.webp",
+            "alt": "Kitchen — view 2",
+            "width": 1500,
+            "height": 1080
+          }
+        ]
+      },
+      {
+        "id": "r-dnr-2",
+        "name": "Crockery",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dnr/crockery-1.webp",
+            "alt": "Crockery — view 1",
+            "width": 1500,
+            "height": 1079
+          }
+        ]
+      },
+      {
+        "id": "r-dnr-3",
+        "name": "Bedroom 1",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dnr/bedroom-1-1.webp",
+            "alt": "Bedroom 1 — view 1",
+            "width": 1200,
+            "height": 864
+          },
+          {
+            "src": "/images/portfolio/dnr/bedroom-1-2.webp",
+            "alt": "Bedroom 1 — view 2",
+            "width": 1500,
+            "height": 1080
+          }
+        ]
+      },
+      {
+        "id": "r-dnr-4",
+        "name": "Bedroom 2",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dnr/bedroom-2-1.webp",
+            "alt": "Bedroom 2 — view 1",
+            "width": 1050,
+            "height": 755
+          },
+          {
+            "src": "/images/portfolio/dnr/bedroom-2-2.webp",
+            "alt": "Bedroom 2 — view 2",
+            "width": 1050,
+            "height": 755
+          },
+          {
+            "src": "/images/portfolio/dnr/bedroom-2-3.webp",
+            "alt": "Bedroom 2 — view 3",
+            "width": 1200,
+            "height": 951
+          }
+        ]
+      },
+      {
+        "id": "r-dnr-5",
+        "name": "Bedroom 3",
+        "layout": "f ",
+        "images": [
+          {
+            "src": "/images/portfolio/dnr/bedroom-3-1.webp",
+            "alt": "Bedroom 3 — view 1",
+            "width": 1500,
+            "height": 1079
+          },
+          {
+            "src": "/images/portfolio/dnr/bedroom-3-2.webp",
+            "alt": "Bedroom 3 — view 2",
+            "width": 1500,
+            "height": 1079
+          }
+        ]
+      }
+    ]
+  },
+  "otherRenders": [
+    {
+      "src": "/images/portfolio/other-renders/render-01.webp",
+      "alt": "Residential render 1",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "src": "/images/portfolio/other-renders/render-02.webp",
+      "alt": "Residential render 2",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "src": "/images/portfolio/covers/other-renders.webp",
+      "alt": "Residential render 3",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "src": "/images/portfolio/other-renders/render-04.webp",
+      "alt": "Residential render 4",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "src": "/images/portfolio/other-renders/render-05.webp",
+      "alt": "Residential render 5",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "src": "/images/portfolio/other-renders/render-06.webp",
+      "alt": "Residential render 6",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "src": "/images/portfolio/other-renders/render-07.webp",
+      "alt": "Residential render 7",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "src": "/images/portfolio/other-renders/render-08.webp",
+      "alt": "Residential render 8",
+      "width": 1500,
+      "height": 844
+    }
+  ],
+  "nailSalon": [
+    {
+      "src": "/images/portfolio/nail-salon/layout-plan.webp",
+      "alt": "Nail salon — Layout plan",
+      "width": 668,
+      "height": 568
+    },
+    {
+      "src": "/images/portfolio/nail-salon/dimensioned-plan.webp",
+      "alt": "Nail salon — Dimensioned plan",
+      "width": 898,
+      "height": 741
+    },
+    {
+      "src": "/images/portfolio/covers/nail-salon.webp",
+      "alt": "Nail salon — Reception & waiting area",
+      "width": 923,
+      "height": 717
+    },
+    {
+      "src": "/images/portfolio/nail-salon/pedicure-and-manicure-station.webp",
+      "alt": "Nail salon — Pedicure & manicure station",
+      "width": 902,
+      "height": 763
+    },
+    {
+      "src": "/images/portfolio/nail-salon/wall-unit-and-sink-elevation.webp",
+      "alt": "Nail salon — Wall unit & sink elevation",
+      "width": 872,
+      "height": 780
+    },
+    {
+      "src": "/images/portfolio/nail-salon/toilet.webp",
+      "alt": "Nail salon — Toilet",
+      "width": 966,
+      "height": 821
+    },
+    {
+      "src": "/images/portfolio/nail-salon/spa-room-1.webp",
+      "alt": "Nail salon — Spa room 1",
+      "width": 968,
+      "height": 828
+    },
+    {
+      "src": "/images/portfolio/nail-salon/hair-wash-station.webp",
+      "alt": "Nail salon — Hair wash station",
+      "width": 974,
+      "height": 836
+    },
+    {
+      "src": "/images/portfolio/nail-salon/hair-styling-station.webp",
+      "alt": "Nail salon — Hair-styling station",
+      "width": 949,
+      "height": 796
+    },
+    {
+      "src": "/images/portfolio/nail-salon/spa-room-2.webp",
+      "alt": "Nail salon — Spa room 2",
+      "width": 962,
+      "height": 813
+    },
+    {
+      "src": "/images/portfolio/nail-salon/consultation-and-makeup-station.webp",
+      "alt": "Nail salon — Consultation & makeup station",
+      "width": 930,
+      "height": 791
+    },
+    {
+      "src": "/images/portfolio/nail-salon/nail-art-station.webp",
+      "alt": "Nail salon — Nail art station",
+      "width": 949,
+      "height": 800
+    }
+  ]
+}
