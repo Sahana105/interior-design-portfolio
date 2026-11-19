@@ -1,13 +1,10 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
+import { DM_Sans } from "next/font/google";
 import "./globals.css";
 
-const inter = localFont({
-  src: [
-    { path: "./fonts/Inter-Regular.woff2", weight: "400", style: "normal" },
-    { path: "./fonts/Inter-Bold.woff2", weight: "700", style: "normal" },
-  ],
-  variable: "--font-inter",
+const dmSans = DM_Sans({
+  subsets: ["latin"],
+  variable: "--font-dm-sans",
   display: "swap",
 });
 
@@ -18,7 +15,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={inter.variable}>
+    <html lang="en" className={dmSans.variable}>
       <body>{children}</body>
     </html>
   );

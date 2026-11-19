@@ -167,8 +167,11 @@ export default function Home() {
               <div className="rv">
                 <div className="eyebrow">Contact</div>
                 <h2 className="contact-title">Let’s talk <em>homes</em></h2>
-                <p className="mail contact-availability">Contact details available on request.</p>
-                <div className="crow"><div><small>Location</small><p>Bengaluru, India</p></div></div>
+                <div className="crow contact-links">
+                  <div><small>Email</small><a href="mailto:ambikarg27@gmail.com">ambikarg27@gmail.com</a></div>
+                  <div><small>Phone</small><a href="tel:7204091285">7204091285</a></div>
+                  <div><small>Location</small><p>Bengaluru, India</p></div>
+                </div>
               </div>
             </div>
           </section>
